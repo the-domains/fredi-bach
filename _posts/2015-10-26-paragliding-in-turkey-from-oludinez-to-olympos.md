@@ -1,24 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: A Vol Liber Grischun adventure
-datePublished: '2015-10-26T18:17:27.451Z'
-dateModified: '2015-10-26T18:16:55.981Z'
-title: 'Paragliding in Turkey, from Öludinez to Olympos'
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T12:59:36.080Z'
 sourcePath: _posts/2015-10-26-paragliding-in-turkey-from-oludinez-to-olympos.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-31T12:59:35.641Z'
+title: Playing with the tree
+publisher: {}
+description: It’s what we do …
+inLanguage: null
+inNav: false
+starred: false
 url: paragliding-in-turkey-from-oludinez-to-olympos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4795932-468f-471a-8170-09679fc740a6.jpg)
+# Playing with the tree
+
+It's what we do ...
+![Romantic! ;-)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b31590c8a5dbe29497e622de6fd185f8fc7a051.jpg)
+
+That beach was nice!
